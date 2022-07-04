@@ -1,0 +1,5 @@
+{
+    "editor.formatOnType": true,
+    "diffEditor.codeLens": false,
+    "editor.suggest.preview": true
+}
